@@ -1,6 +1,6 @@
 {
   "name": "@luxfi/eth-trezor-keyring",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "A luxfi compatible keyring, for trezor hardware wallets",
   "keywords": [
     "ethereum",
