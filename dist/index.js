@@ -63,8 +63,8 @@ const pathBase = 'm';
 const MAX_INDEX = 1000;
 const DELAY_BETWEEN_POPUPS = 1000;
 const TREZOR_CONNECT_MANIFEST = {
-    email: 'support@luxfi.com/',
-    appUrl: 'https://luxfi.com/',
+    email: 'support@debank.com/',
+    appUrl: 'https://debank.com/',
 };
 const isSameAddress = (a, b) => {
     return a.toLowerCase() === b.toLowerCase();
